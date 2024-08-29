@@ -34,3 +34,11 @@ Filling out the template is required. Issues that do not include enough informat
 Please prefix your issue with one of the following: [BUG] [PROPOSAL] [QUESTION].
 
 And please be considerate towards maintainers when raising issues.
+
+PROPOSAL
+-I having Trouble to format the selected or specific cell that i want.
+In the current state of this Library, Column Formatting was the only way to Format a Cell.
+I have to format numbers with separators(","), with Percentage%, and Currency$. 
+If these things are in the same Column, I cannot format it well. 
+Please check Image Below: thanks
+![image](https://github.com/user-attachments/assets/61434aaa-bf77-48e2-9101-a0003ff49b32)
